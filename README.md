@@ -1,12 +1,11 @@
 # Overview
 
-This is a basic Hello World program written to show my integrated use of Python, GitHub, and Visual Studio Code.
+This is a basic Hello World program. I have written this program to show my integrated use of Python, GitHub, and Visual Studio Code.
 
-{Describe your purpose for creating this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Below is a link to a short demonstration and explanation of the code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/anQgRvb2FxI)
 
 # Development Environment
 
@@ -16,6 +15,6 @@ This is a basic Hello World program written to show my integrated use of Python,
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://code.visualstudio.com/download)
-* [Web Site Name](http://url.link.goes.here)
+These are some websites that provide beneficial information and context.
+* [Using Git source control in VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview)
+* [Working with GitHub in VS Code](https://code.visualstudio.com/docs/sourcecontrol/github)
